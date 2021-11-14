@@ -6,12 +6,12 @@ import java.util.Scanner;
 
 public class Lab03 {
     public static void main(String[] args) {
-//        System.out.println("----Bai 1----:");
-//        parseMinute();
-//        System.out.println("----Bai 2----:");
-//        checkPassword();
-//        System.out.println("----Bai 3----:");
-//        splitString();
+        System.out.println("----Bai 1----:");
+        parseMinute();
+        System.out.println("----Bai 2----:");
+        checkPassword();
+        System.out.println("----Bai 3----:");
+        splitString();
         System.out.println("----Bai 4----:");
         checkString();
     }
